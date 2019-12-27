@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meditate</title>
+    <link>https://dreamcatcher096.github.io/post/</link>
+    <description>Recent content in Posts on Meditate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dreamcatcher096.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown语法</title>
+      <link>https://dreamcatcher096.github.io/2019/12/markdown%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dreamcatcher096.github.io/2019/12/markdown%E8%AF%AD%E6%B3%95/</guid>
+      <description>Markdown是一种纯文本格式的标记语言，也是一个文本编辑器的名字。
+相比富文本编辑器（如Word），Markdown语言的好处在于可以在编写文字的同时编辑文字的格式和排版， 这样既方便操作又可以省去在文本界面和排版工具之间的切换。不过Markdown也有自己的缺点，就是有一定的学习成本，需要一些工具才可以做到所见即所得。
+下面就是对GFM语法的一个总结。
+横线 ***、&amp;mdash;、___可以显示横线
+   标题  通过在文字前加# 来表示标题，#号的数量代表标题的级数
+这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是五级标题 这是六级标题 文本 单行文本 在一行开头加入1个Tab或者4个空格。
+这是单行文本  文本块 在连续几行的文本开头加入1个Tab或者4个空格。
+文 本 块  使用一对各三个的```
+文 本 块 文字高亮 在高亮文字两端加`
+高亮文字
+斜体、粗体、删除线    语法 效果     *斜体1* 斜体1   _斜体2_ 斜体2   **粗体1** 粗体1   __粗体2__ 粗体2   这是一个 ~~删除线~~ 这是一个 删除线   ***斜粗体1*** 斜粗体1   ___斜粗体2___ 斜粗体2   ***~~斜粗体删除线1~~*** 斜粗体删除线1   ~~***斜粗体删除线2***~~ 斜粗体删除线2    图片 语法：</description>
+    </item>
+    
+  </channel>
+</rss>
