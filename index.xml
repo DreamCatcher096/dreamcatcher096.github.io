@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditate</title>
-    <link>https://dreamcatcher096.github.io/</link>
+    <link>https://zhangsiqi.me/</link>
     <description>Recent content on Meditate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dreamcatcher096.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhangsiqi.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown语法</title>
-      <link>https://dreamcatcher096.github.io/2019/12/markdown%E8%AF%AD%E6%B3%95/</link>
+      <link>https://zhangsiqi.me/2019/12/markdown%E8%AF%AD%E6%B3%95/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dreamcatcher096.github.io/2019/12/markdown%E8%AF%AD%E6%B3%95/</guid>
+      <guid>https://zhangsiqi.me/2019/12/markdown%E8%AF%AD%E6%B3%95/</guid>
       <description>Markdown是一种纯文本格式的标记语言，也是一个文本编辑器的名字。
 相比富文本编辑器（如Word），Markdown语言的好处在于可以在编写文字的同时编辑文字的格式和排版， 这样既方便操作又可以省去在文本界面和排版工具之间的切换。不过Markdown也有自己的缺点，就是有一定的学习成本，需要一些工具才可以做到所见即所得。
 下面就是对GFM语法的一个总结。
