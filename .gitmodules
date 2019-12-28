@@ -1,3 +1,3 @@
 [submodule "theme"]
 	path = themes/hugo-tranquilpeak-theme
-	url = git@github.com:DreamCatcher096/dreamcatcher096.github.io.git
+	url = https://github.com/DreamCatcher096/hugo-tranquilpeak-theme.git
