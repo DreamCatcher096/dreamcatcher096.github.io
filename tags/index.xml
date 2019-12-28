@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Meditate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2019 15:31:17 +0800</lastBuildDate>
     
 	<atom:link href="https://zhangsiqi.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travis CI</title>
+      <link>https://zhangsiqi.me/tags/travis-ci/</link>
+      <pubDate>Sat, 28 Dec 2019 15:31:17 +0800</pubDate>
+      
+      <guid>https://zhangsiqi.me/tags/travis-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>https://zhangsiqi.me/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 28 Dec 2019 15:31:17 +0800</pubDate>
+      
+      <guid>https://zhangsiqi.me/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自动化部署</title>
+      <link>https://zhangsiqi.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Sat, 28 Dec 2019 15:31:17 +0800</pubDate>
+      
+      <guid>https://zhangsiqi.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

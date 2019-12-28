@@ -3,30 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://zhangsiqi.me/categories/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/post/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/tags/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/tags/travis-ci/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/2019/12/travis_ci_%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/categories/%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhangsiqi.me/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2019-12-28T15:31:17+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zhangsiqi.me/2019/12/markdown%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zhangsiqi.me/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zhangsiqi.me/post/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zhangsiqi.me/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zhangsiqi.me/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zhangsiqi.me/tags/</loc>
   </url>
   
 </urlset>

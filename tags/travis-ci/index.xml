@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travis CI on Meditate</title>
+    <link>https://zhangsiqi.me/tags/travis-ci/</link>
+    <description>Recent content in Travis CI on Meditate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2019 15:31:17 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhangsiqi.me/tags/travis-ci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travis_CI_测试</title>
+      <link>https://zhangsiqi.me/2019/12/travis_ci_%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 28 Dec 2019 15:31:17 +0800</pubDate>
+      
+      <guid>https://zhangsiqi.me/2019/12/travis_ci_%E6%B5%8B%E8%AF%95/</guid>
+      <description>刚刚部署好了Github Pages上面的Travis CI自动化部署，现在测试一下能不能自动发布新的文章。</description>
+    </item>
+    
+  </channel>
+</rss>
